@@ -1,0 +1,37 @@
+{
+	"afn_valid_scopes":
+	[
+		"string"
+	],
+	"auto_complete_commit_on_tab": true,
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/Colorsublime-Themes/Monokai.tmTheme",
+	"create_window_at_startup": false,
+	"detect_slow_plugins": false,
+	"draw_minimap_border": false,
+	"enable_tab_scrolling": false,
+	"font_face": "Source Code Pro",
+	"font_size": 9,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"match_brackets_angle": true,
+	"match_selection": true,
+	"match_tags": true,
+	"open_files_in_new_window": false,
+	"phoenix_color_blue": true,
+	"phoenix_color_expanded_folder": true,
+	"phoenix_dirty_bottom_bar": false,
+	"phoenix_dirty_bottom_bar_red": false,
+	"phoenix_eighties": true,
+	"phoenix_solid_current_tab": false,
+	"phoenix_tabs_auto_width": false,
+	"save_on_focus_lost": false,
+	"spell_check": false,
+	"theme": "Phoenix Dark.sublime-theme",
+	"translate_tabs_to_spaces": false,
+	"word_wrap": true
+}

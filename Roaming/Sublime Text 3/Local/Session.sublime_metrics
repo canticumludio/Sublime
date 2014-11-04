@@ -1,0 +1,22 @@
+{
+	"licensed": false,
+	"packages":
+	[
+		"Autocomplete Javascript with Method Signature",
+		"AutoFileName",
+		"Emmet",
+		"jQuery",
+		"Package Control",
+		"Sass",
+		"Theme - Phoenix"
+	],
+	"startup_sec": 0.1813767,
+	"syntax":
+	{
+		"CSS": 8,
+		"HTML": 36,
+		"HTML-ASP": 13,
+		"Perl": 2
+	},
+	"time": 1410413429
+}
